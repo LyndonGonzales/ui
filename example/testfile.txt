@@ -1,0 +1,5 @@
+conducting the test script:
+1.create build sctipts
+2.test
+3.submit release form
+4.access changes went correctly
